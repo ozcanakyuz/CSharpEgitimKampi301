@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,38 +39,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Model1.edmx",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Model1.edmx",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-13T10:19:13.253Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileName.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FileName.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FileName.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FileName.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FileName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FrmLocation.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:14:45.93Z",
+              "WhenOpened": "2024-11-21T16:47:50.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FrmLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:56:52.078Z",
+              "WhenOpened": "2024-11-21T16:31:39.161Z",
               "EditorCaption": " [Design]"
             }
           ]

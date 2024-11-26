@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64B86DC8-895F-4ABB-8958-2A0220C65D7D}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\efcustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\efadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\efadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +51,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmStatistics.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:36:53.88Z",
+              "WhenOpened": "2024-11-26T15:52:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfOrderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:47:30.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmStatistics.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]",
+              "Title": "EfCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:35:47.617Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-26T15:45:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:45:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfAdminDal.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfAdminDal.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfAdminDal.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfAdminDal.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfAdminDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:42:59.667Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.businesslayer\\concrete\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\concrete\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{738EABBB-CAA2-40F8-9AF7-DA267988538A}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{738EABBB-CAA2-40F8-9AF7-DA267988538A}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C66A48C-21D3-47A1-BE2E-23385F6DB912}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|c:\\users\\xe_bi\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7464F7EC-4E72-4497-A6DE-3C86828B6735}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:27:24.445Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -47,78 +40,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T14:55:35.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:05:20.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:02:19.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderManager.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\OrderManager.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\OrderManager.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\OrderManager.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\OrderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:00:00.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T14:26:15.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmCategory.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
-              "ToolTip": "C:\\Users\\xe_bi\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T14:15:36.857Z"
             }
           ]
         }

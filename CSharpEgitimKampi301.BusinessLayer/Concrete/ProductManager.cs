@@ -16,7 +16,6 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
         {
             _productDal = productDal;
         }
-
         public void TDelete(Product entity)
         {
             _productDal.Delete(entity);

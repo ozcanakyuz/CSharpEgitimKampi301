@@ -26,7 +26,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Repositories
 
         public List<T> GetAll()
         {
-            return _object.ToList();   
+            return _object.ToList();
         }
 
         public T GetById(int id)

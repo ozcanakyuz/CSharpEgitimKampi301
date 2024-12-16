@@ -17,10 +17,12 @@ namespace CSharpEgitimKampi301.PresentationLayer
     public partial class FrmProduct : Form
     {
         private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
         public FrmProduct()
         {
             InitializeComponent();
             _productService = new ProductManager(new EfProductDal());
+            _categoryService = new CategoryManager(new EfCategoryDal());
         }
 
 
@@ -48,6 +50,10 @@ namespace CSharpEgitimKampi301.PresentationLayer
         {
             int updatedId = int.Parse(txtProductId.Text);
             var updatedValue = _productService.TGetById(updatedId);
+            updatedValue.CategoryId = int.Parse(cmbCategory.SelectedValue.ToString());
+            updatedValue.ProductDescription = txtProductDescription.Text;
+            updatedValue.ProductPrice = decimal.Parse(txtProductPrice.Text);
+            updatedValue.ProductStock = int.Parse(txtProductStock.Text);
             updatedValue.ProductName = txtProductName.Text;
             _productService.TUpdate(updatedValue);
             MessageBox.Show("Updated Success!");
@@ -60,12 +66,23 @@ namespace CSharpEgitimKampi301.PresentationLayer
             dataGridView1.DataSource = new List<object> { getById };
         }
 
-        //private void btnAdd_Click(object sender, EventArgs e)
-        //{
-        //    Product product = new Product();
-        //    product.ProductName = txtProductName.Text;
-        //    _productService.TInsert(product);
-        //    MessageBox.Show("Add Success!");
-        //}
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            Product product = new Product();
+            product.CategoryId = int.Parse(cmbCategory.SelectedValue.ToString());
+            product.ProductPrice = decimal.Parse(txtProductPrice.Text);
+            product.ProductName = txtProductName.Text;
+            product.ProductDescription = txtProductDescription.Text;
+            product.ProductStock = int.Parse(txtProductStock.Text);
+            _productService.TInsert(product);
+            MessageBox.Show("Add Success!");
+        }
+        private void FrmProduct_Load(object sender, EventArgs e)
+        {
+            var values = _categoryService.TGetAll();
+            cmbCategory.DataSource = values;
+            cmbCategory.DisplayMember = "CategoryName";
+            cmbCategory.ValueMember = "CategoryId";
+        }
     }
 }

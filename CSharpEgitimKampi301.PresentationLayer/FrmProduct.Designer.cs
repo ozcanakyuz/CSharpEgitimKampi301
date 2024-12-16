@@ -45,7 +45,7 @@
             this.txtProductDescription = new System.Windows.Forms.TextBox();
             this.txtProductDescription2 = new System.Windows.Forms.Label();
             this.txtProductCategory2 = new System.Windows.Forms.Label();
-            this.txtProductCategory = new System.Windows.Forms.ComboBox();
+            this.cmbCategory = new System.Windows.Forms.ComboBox();
             this.btnList2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -199,13 +199,13 @@
             this.txtProductCategory2.TabIndex = 32;
             this.txtProductCategory2.Text = "Category:";
             // 
-            // txtProductCategory
+            // cmbCategory
             // 
-            this.txtProductCategory.FormattingEnabled = true;
-            this.txtProductCategory.Location = new System.Drawing.Point(110, 140);
-            this.txtProductCategory.Name = "txtProductCategory";
-            this.txtProductCategory.Size = new System.Drawing.Size(203, 21);
-            this.txtProductCategory.TabIndex = 36;
+            this.cmbCategory.FormattingEnabled = true;
+            this.cmbCategory.Location = new System.Drawing.Point(110, 140);
+            this.cmbCategory.Name = "cmbCategory";
+            this.cmbCategory.Size = new System.Drawing.Size(203, 21);
+            this.cmbCategory.TabIndex = 36;
             // 
             // btnList2
             // 
@@ -224,7 +224,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(197)))), ((int)(((byte)(48)))));
             this.ClientSize = new System.Drawing.Size(984, 495);
             this.Controls.Add(this.btnList2);
-            this.Controls.Add(this.txtProductCategory);
+            this.Controls.Add(this.cmbCategory);
             this.Controls.Add(this.txtProductDescription);
             this.Controls.Add(this.txtProductDescription2);
             this.Controls.Add(this.txtProductCategory2);
@@ -244,6 +244,7 @@
             this.Controls.Add(this.txtProductId2);
             this.Name = "FrmProduct";
             this.Text = "FrmProduct";
+            this.Load += new System.EventHandler(this.FrmProduct_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -269,7 +270,7 @@
         private System.Windows.Forms.TextBox txtProductDescription;
         private System.Windows.Forms.Label txtProductDescription2;
         private System.Windows.Forms.Label txtProductCategory2;
-        private System.Windows.Forms.ComboBox txtProductCategory;
+        private System.Windows.Forms.ComboBox cmbCategory;
         private System.Windows.Forms.Button btnList2;
     }
 }
